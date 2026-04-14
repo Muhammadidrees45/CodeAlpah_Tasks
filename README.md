@@ -1,27 +1,27 @@
-# 📸 Image Gallery Project
+# Image Gallery Project
 
 This is a responsive Image Gallery built as part of my Frontend Development Internship.
 
-## 🚀 Features
+## Features
 - Grid-based image layout
 - Lightbox (fullscreen image view)
 - Next and Previous navigation
 - Hover effects and smooth transitions
 - Responsive design (mobile-friendly)
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## 🎯 Project Objective
+## Project Objective
 The goal of this project is to practice frontend development skills and build an interactive image gallery with modern UI features.
 
-## 🌐 Live Demo
+## Live Demo
 (https://muhammadidrees45.github.io/CodeAlpha_ImageGallery/)
 
-## 📂 GitHub Repository
+## GitHub Repository
 (https://github.com/Muhammadidrees45/CodeAlpha_ImageGallery/tree/main)
 
-## 🙌 Author
+## Author
 Muhammad Idress
