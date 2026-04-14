@@ -21,7 +21,7 @@ The goal of this project is to practice frontend development skills and build an
 (Add your GitHub Pages link here)
 
 ## 📂 GitHub Repository
-(Add your repo link here)
+(https://github.com/Muhammadidrees45/CodeAlpha_ImageGallery/tree/main)
 
 ## 🙌 Author
 Muhammad Idress
