@@ -74,10 +74,3 @@ document.addEventListener('keydown', (e) => {
         }
     }
 });
-
-// Close on click outside image
-lightbox.addEventListener('click', (e) => {
-    if (e.target === lightbox) {
-        closeImage();
-    }
-});
