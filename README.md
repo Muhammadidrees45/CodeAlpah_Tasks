@@ -18,7 +18,7 @@ This is a responsive Image Gallery built as part of my Frontend Development Inte
 The goal of this project is to practice frontend development skills and build an interactive image gallery with modern UI features.
 
 ## Live Demo
-(https://muhammadidrees45.github.io/CodeAlpha_ImageGallery/)
+(https://muhammadidrees45.github.io/CodeAlpha_Tasks/)
 
 ## GitHub Repository
 (https://github.com/Muhammadidrees45/CodeAlpha_Tasks.git)
