@@ -11,6 +11,11 @@ body{
     min-height: 100vh;
     background: linear-gradient(90deg , #000000 ,#e6dede ,#3a0030);
 }
+@media (max-width: 768px){
+    .gallery{
+        grid-template-columns: repeat(2 , 1fr);
+    }
+}
 .gallery{
     display: grid;
     flex-wrap: wrap;
