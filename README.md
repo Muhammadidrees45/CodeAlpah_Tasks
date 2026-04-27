@@ -27,7 +27,7 @@ The goal of this project is to practice frontend development skills and build an
 
 
 
-                                            # TASK-2_CALCULATOR
+                                             TASK-2_CALCULATOR
                                             
 # Calculator Web App
 
