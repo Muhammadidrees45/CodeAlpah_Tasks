@@ -29,7 +29,7 @@ The goal of this project is to practice frontend development skills and build an
 
                                              TASK-2_CALCULATOR
                                             
-# Calculator Web App
+# Calculator Project
 
 This is a simple and responsive calculator built using HTML, CSS, and JavaScript as part of my Frontend Development Internship at CodeAlpha.
 
